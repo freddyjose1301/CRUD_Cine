@@ -8,6 +8,7 @@ Permite gestionar información sobre:
 - 🏷️ Géneros
 
 Funcionalidades
+
 ✅ Crear, leer, actualizar y eliminar películas
 
 ✅ Asociar películas con uno o más actores
