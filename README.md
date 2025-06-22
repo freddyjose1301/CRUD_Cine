@@ -9,8 +9,12 @@ Permite gestionar información sobre:
 
 Funcionalidades
 ✅ Crear, leer, actualizar y eliminar películas
+
 ✅ Asociar películas con uno o más actores
+
 ✅ Asociar películas con un género
+
 ✅ Base de datos en SQLite, auto generada
+
 ✅ Interfaz de consola clara y fácil de usar
 
